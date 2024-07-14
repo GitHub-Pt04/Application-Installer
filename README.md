@@ -44,7 +44,7 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 [Issues](https://github.com/GitHub-Pt04/Application-Installer/issues)を確認してください
 
 ## ダウンロード
-[最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/releases)
+[最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/raw/main/latest.zip)
 
 ## 更新履歴
 0.1 - 初期リリース
