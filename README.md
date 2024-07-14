@@ -12,6 +12,12 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 
 **※アプリケーションのソースは公開していません**
 
+## 注意
+
+まれにウイルス(マルウェア)検出でブロックされる可能性があります。
+
+**開発者を信頼して**このアプリを実行するか、心配な場合は、使用を控えてください
+
 ## 問題/バグについて
 [Issues](https://github.com/GitHub-Pt04/Application-Installer/issues)を確認してください
 
