@@ -6,13 +6,18 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 ## ソースについて
 ・LatestInfo.json - 最新バージョンと更新履歴が書かれたJSONファイルです。
 
-・Latest.zip - 最新バージョンのアプリ本体です。これはアップデートのときに使用されます。
+・latest.zip - 最新バージョンのアプリ本体です。これはアップデートのときに使用されます。
 
-・LatestUpdater - 最新バージョンのアップデーターです。これはアップデートのときに使用されます。
+・updater.zip - 最新バージョンのアップデーターです。これはアップデートのときに使用されます。
 
 ・README.md - 本文。
 
 **※アプリケーションのソースは公開していません**
+
+## ファイルについて
+・Application Installer.exe - アプリ本体です
+
+・install.bat, search.bat, update.bat - アプリの機能を使うために必要なバッチファイルです。**消さないでください**(再作成コマンド作成予定)
 
 ## 注意
 
@@ -22,11 +27,16 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 
  ・インストールしたい各アプリケーションの**利用規約を確認してください**
 
+ ・正しく動作するとは限りません。**自己責任で利用してください**
+ 
+ ・まれに古いバージョンがインストールされることがあります
+
 ## 問題/バグについて
+
 [Issues](https://github.com/GitHub-Pt04/Application-Installer/issues)を確認してください
 
-##ダウンロード
-準備中
+## ダウンロード
+[最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/releases)
 
-##更新履歴
-準備中
+## 更新履歴
+0.1 - 初期リリース
