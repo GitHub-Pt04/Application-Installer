@@ -12,7 +12,7 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 
 ・README.md - 本文。
 
-・htu - 使い方についての説明(htu.md)が入っているフォルダ。
+・How to use - 使い方についての説明(htu.md)が入っているフォルダ。
 
 **※アプリケーションのソースは公開していません**
 
@@ -37,7 +37,7 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
  ・まれに古いバージョンがインストールされることがあります
 
  ## 使い方
-[How to use](https://github.com/GitHub-Pt04/Application-Installer/How-to-use/blob/main/htu.md)
+[使い方はこちら]([https://github.com/GitHub-Pt04/Application-Installer/How-to-use/blob/main/htu.md](https://github.com/GitHub-Pt04/Application-Installer/blob/main/How%20to%20use/htu.md))
 
 ## 問題/バグについて
 
