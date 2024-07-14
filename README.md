@@ -1,3 +1,5 @@
+# 実行する前に、必ず確認してください↓
+
 # Application-Installer
 Windows Package Manager (winget)を使用したアプリインストーラーです。
 
