@@ -47,4 +47,6 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 [最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/raw/main/latest.zip)
 
 ## 更新履歴
+0.2
+・アップデート情報の読み込ませ方を変更しました
 0.1 - 初期リリース
