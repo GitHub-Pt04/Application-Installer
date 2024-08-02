@@ -6,6 +6,8 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 ## ソースについて
 ・LatestInfo.json - 最新バージョンと更新履歴が書かれたJSONファイルです。
 
+・Info.json - お知らせ。
+
 ・latest.zip - 最新バージョンのアプリ本体です。これはアップデートのときに使用されます。
 
 ・updater.zip - 最新バージョンのアップデーターです。これはアップデートのときに使用されます。
