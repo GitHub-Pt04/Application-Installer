@@ -42,6 +42,9 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 [使い方はこちら](https://github.com/GitHub-Pt04/Application-Installer/blob/main/How%20to%20use/htu.md)
 
 ## 問題/バグについて
+開発者が発見した問題/バグは、お知らせとして配信されます
+
+お知らせを確認するか、
 
 [Issues](https://github.com/GitHub-Pt04/Application-Installer/issues)を確認してください
 
