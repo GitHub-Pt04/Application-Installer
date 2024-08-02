@@ -21,12 +21,10 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 ## ファイルについて
 ・Application Installer.exe - アプリ本体です
 
-・install.bat, search.bat, update.bat - アプリの機能を使うために必要なバッチファイルです。**消さないでください**(再作成コマンド作成予定)
-
 ## インストールできるアプリの種類
 ・ブラウザー
 
-・SNS関連 (予定)
+・SNS関連
 
 ## 注意
 
@@ -51,7 +49,7 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 [最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/raw/main/latest.zip)
 
 ## 更新履歴
-0.3(予定)
+0.3
 
 ・SNS関連のアプリを追加しました
 
@@ -64,6 +62,8 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 ・通常版とMicrosoftストア版の選択ができるようになりました
 
 ・"すべて解除"ボタンを追加しました
+
+・バッチファイル類を削除しました
 
 0.2
 
