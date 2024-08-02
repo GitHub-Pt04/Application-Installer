@@ -21,6 +21,10 @@
 
 1 一覧からアプリを選択します
 
+※Microsoftストア版をインストールしたい場合は、「**MSストア版**」を選択してください
+
+　デフォルトでは、「**通常版**」が選択されています
+
 2 "インストール"ボタンをクリック
 
 ![picture1](https://github.com/GitHub-Pt04/Application-Installer/blob/main/How%20to%20use/1.png?raw=true)
