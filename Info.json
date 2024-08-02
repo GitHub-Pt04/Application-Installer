@@ -1,9 +1,8 @@
 {
-    "Type":1,
-    "Version":[
-        "All Versions"
-    ],
-    "DetailURL":"None",
+    "Title":"動作テストに関するおしらせ",
+    "Type":2,
+    "Version":"All Versions",
+    "DetailURL":"https://github.com/GitHub-Pt04/Application-Installer/blob/main/Info.json",
     "Body":"お知らせ表示のテストです",
     "Date":"2024/08/02"
 }
