@@ -44,9 +44,7 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 ## 問題/バグについて
 開発者が発見した問題/バグは、お知らせとして配信されます
 
-お知らせを確認するか、
-
-[Issues](https://github.com/GitHub-Pt04/Application-Installer/issues)を確認してください
+お知らせを確認してください
 
 ## ダウンロード
 [最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/raw/main/latest.zip)
