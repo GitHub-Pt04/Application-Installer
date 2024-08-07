@@ -16,7 +16,7 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 
 ・How to use - 使い方についての説明(htu.md)が入っているフォルダ。
 
-**※アプリケーションのソースは公開していません**
+**※現時点、アプリケーションのソースは公開していません**
 
 ## ファイルについて
 ・Application Installer.exe - アプリ本体です
