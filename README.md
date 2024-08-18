@@ -46,6 +46,8 @@ Windows Package Manager (winget)を使用したアプリインストーラーで
 
 お知らせを確認してください
 
+**※現在、ほとんどアプリのテストを行っていません。ご了承ください**
+
 ## ダウンロード
 [最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/raw/main/latest.zip)
 
