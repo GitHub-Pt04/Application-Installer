@@ -1,7 +1,7 @@
 # 実行する前に、必ず確認してください↓
 
 # Application-Installer
-Windows Package Manager (winget)を使用したアプリインストーラーです。
+[Windows Package Manager (winget)](https://learn.microsoft.com/ja-jp/windows/package-manager/winget/) を使用したアプリインストーラーです。
 
 ## ソースについて
 ・LatestInfo.json - 最新バージョンと更新履歴が書かれたJSONファイルです。
