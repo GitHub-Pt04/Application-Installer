@@ -51,6 +51,8 @@
 ## ダウンロード
 [最新版をダウンロード](https://github.com/GitHub-Pt04/Application-Installer/raw/main/latest.zip)
 
+※"latest.zip"としてダウンロードされます。
+
 ## 更新履歴
 0.3
 
