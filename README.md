@@ -1,7 +1,9 @@
 # 実行する前に、必ず確認してください↓
 
-# Application-Installer
+# Application-Installer (Beta)
 [Windows Package Manager (winget)](https://learn.microsoft.com/ja-jp/windows/package-manager/winget/) を使用したアプリインストーラーです。
+
+**※現在、ベータ版ですので機能が少ないです**
 
 ## ソースについて
 ・LatestInfo.json - 最新バージョンと更新履歴が書かれたJSONファイルです。
