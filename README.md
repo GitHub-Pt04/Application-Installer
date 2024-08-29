@@ -1,6 +1,6 @@
 # 実行する前に、必ず確認してください↓
 
-# Application-Installer (Beta)
+# Application-Installer (Beta, 開発ペース低下により非公開)
 [Windows Package Manager (winget)](https://learn.microsoft.com/ja-jp/windows/package-manager/winget/) を使用したアプリインストーラーです。
 
 **※現在、ベータ版ですので機能が少ないです**
